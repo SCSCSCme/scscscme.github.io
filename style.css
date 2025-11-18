@@ -3,4 +3,8 @@
 	font-feature-settings: "calt" 1, "liga" 1; /* 启用连字 */
 	-webkit-font-feature-settings: "calt", "liga";
 	font-variant-ligatures: contextual;
+
+	background: #f8f9fa;               /* 浅灰背景 */
+	border-radius: 16px;              /* 圆角 */
+	box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* 柔光阴影 */
 }
