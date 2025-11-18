@@ -8,7 +8,9 @@
 	border-radius: 16px;              /* 圆角 */
 	border: 1px;
 	box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* 柔光阴影 */
+}
 
+.body {
     min-height: 100vh; /* 撑满全屏 */
     display: flex;
     justify-content: center; /* 水平居中 */
